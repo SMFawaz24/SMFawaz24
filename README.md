@@ -4,7 +4,7 @@
 I'm a motivated Full Stack Developer specializing in Artificial Intelligence and Machine Learning, currently pursuing a Bachelor of Technology in Computer Science and Engineering at SRM Institute of Science and Technology. I'm passionate about building user-centric applications and solving complex challenges through innovative technologies.
 
 ## 🛠️ Skills
-- **Programming Languages:** C, JavaScript
+- **Programming Languages:** C, C++, Python, JavaScript
 - **Web Technologies:** HTML, CSS
 - **Frameworks:** JavaSwing
 - **Database:** MySQL
