@@ -21,10 +21,11 @@ I'm a motivated learner practicing Data Analytics, currently pursuing a Bachelor
 - Artificial Intelligence and Machine Learning techniques
 
 ## 📚 Notable Projects
-### 1. Portfolio Builder
-- Developed a responsive personal portfolio website
-- Technologies: HTML, CSS, JavaScript
-- Enhanced user experience and showcased technical capabilities
+### 1. AI Agritech Assistant
+- Developed an AI-powered assistant to support agricultural practices
+- Technologies: Python, Machine Learning, AI
+- Features include crop yield prediction, pest detection, and weather forecasting
+- Aimed to enhance productivity and sustainability in agriculture
 
 ### 2. Finance Tracker
 - Created a comprehensive finance tracking application
@@ -33,6 +34,7 @@ I'm a motivated learner practicing Data Analytics, currently pursuing a Bachelor
 
 ## 🏆 Certifications
 - Google AI Essentials (2024)
+- Preparing Data for Analysis with Microsoft Excel (2025)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-mohammad-fawaz)
