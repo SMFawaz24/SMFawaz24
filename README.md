@@ -3,11 +3,11 @@
 I'm a motivated learner practicing Data Analytics, currently pursuing a Bachelor of Technology in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology. I'm passionate about building user-centric applications and solving complex challenges through innovative technologies.
 
 ## 🛠️ Skills
-- **Programming Languages:** C, C++, Python, JavaScript, TypeScript, Bash, Awk, Sed, Rust, Go, R, Dart, ASM, Godit, C#, .NET, Java, Elixir, Lua, Pearl, RubyOnRails
+- **Programming Languages:** C, C++, Python, JavaScript
 - **Web Technologies:** HTML, CSS
 - **Frameworks:** JavaSwing
-- **Database:** MySQL, PostgreSQL, MongoDB, CromaDB
-- **Tools:** Git, Eclipse, Copilot, PowerBI, Excel, AutoCAD, Unity, Unreal Engine, Gameloft
+- **Database:** MySQL
+- **Tools:** Git, Eclipse, Copilot, PowerBI, Excel, AutoCAD
 - **Languages:** English, Hindi, Urdu, German 
 - **Data Analytics:** Currently developing
 
