@@ -33,6 +33,11 @@ I'm a motivated learner practicing Data Analytics, currently pursuing a Bachelor
 - Technologies: JavaSwing, MySQL
 - Implemented robust financial record management functionalities
 
+### 3. Interchronos Astronomy App
+- Developed a modern astronomy app for exploring celestial phenomena
+- Technologies: TypeScript, JavaScript, CSS, HTML
+- Features include interactive celestial event visualization and educational tools
+
 ## Certifications
 - Google AI Essentials (2024)
 - Preparing Data for Analysis with Microsoft Excel (2025)
