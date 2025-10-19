@@ -41,6 +41,7 @@ I'm a motivated learner practicing Data Analytics, currently pursuing a Bachelor
 ## Certifications
 - Google AI Essentials (2024)
 - Preparing Data for Analysis with Microsoft Excel (2025)
+- Introduction to Machine Learning, NPTEL (2025)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-mohammad-fawaz)
