@@ -26,17 +26,17 @@ I'm a motivated learner practicing Data Analytics, currently pursuing a Bachelor
 - Built a data processing and validation tool for cleaning, transforming, and reporting CSV datasets
 - Technologies: Java, HTML, JavaScript
 - Implemented modular components for data validation, transformation, and automated report generation
+ 
+### 2. Interchronos Astronomy App
+- Developed a modern astronomy app for exploring celestial phenomena
+- Technologies: TypeScript, JavaScript, CSS, HTML
+- Features include interactive celestial event visualization and educational tools
 
-### 2. AI Agritech Assistant
+### 3. AI Agritech Assistant
 - Developed an AI-powered assistant to support agricultural practices
 - Technologies: Python, Machine Learning, AI
 - Features include crop yield prediction, pest detection, and weather forecasting
 - Aimed to enhance productivity and sustainability in agriculture
- 
-### 3. Interchronos Astronomy App
-- Developed a modern astronomy app for exploring celestial phenomena
-- Technologies: TypeScript, JavaScript, CSS, HTML
-- Features include interactive celestial event visualization and educational tools
 
 ## Certifications
 - Google AI Essentials (2024)
