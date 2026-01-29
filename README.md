@@ -10,14 +10,13 @@ I'm a motivated learner practicing Data Analytics, currently pursuing a Bachelor
 - **Database:** MySQL
 - **Tools:** Git, Eclipse, Copilot, PowerBI, Excel, AutoCAD
 - **Languages:** English, Hindi, Urdu, German 
-- **Data Analytics:** Currently developing
+- **Data Analytics:** SQL, Pandas, NumPy, KNIME
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMFawaz24&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMFawaz24&layout=compact)
 
 ## Currently Learning
-- Full Stack Web Development
 - Data Analytics
 - Artificial Intelligence and Machine Learning techniques
 
@@ -42,6 +41,7 @@ I'm a motivated learner practicing Data Analytics, currently pursuing a Bachelor
 - Google AI Essentials (2024)
 - Preparing Data for Analysis with Microsoft Excel (2025)
 - Introduction to Machine Learning, NPTEL (2025)
+- Networking Basics, Cisco (2025)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-mohammad-fawaz)
