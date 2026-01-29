@@ -4,12 +4,12 @@
 I'm a motivated learner practicing Data Analytics, currently pursuing a Bachelor of Technology in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning.
 
 ## Skills
-**Languages**: Python, Java, C, C++, JavaScript, SQL
-**Data & AI/ML**: Pandas, NumPy, Matplotlib, Machine Learning, Deep Learning, ANN
-**GenAI**: RAG, Vector Databases
-**Web Technologies**: HTML, CSS
-**Databases**: MySQL
-**Tools**: Git, Eclipse, Power BI, Excel, Jupyter Notebooks, KNIME
+- **Languages**: Python, Java, C, C++, JavaScript, SQL
+- **Data & AI/ML**: Pandas, NumPy, Matplotlib, Machine Learning, Deep Learning, ANN
+- **GenAI**: RAG, Vector Databases
+- **Web Technologies**: HTML, CSS
+- **Databases**: MySQL
+- **Tools**: Git, Eclipse, Power BI, Excel, Jupyter Notebooks, KNIME
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMFawaz24&show_icons=true&theme=radical)
