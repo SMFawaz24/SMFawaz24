@@ -1,7 +1,7 @@
 # Hi there! I'm Syed Mohammad Fawaz
 
 ## About Me
-I'm a motivated learner practicing Data Analytics, currently pursuing a Bachelor's of Technology in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning.
+I'm a motivated learner practicing Data Analytics, currently pursuing a Bachelors of Technology in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning.
 
 ## Skills
 - **Languages**: Python, Java, C, C++, JavaScript, SQL
