@@ -13,7 +13,7 @@ I'm a motivated learner practicing Data Analytics, currently pursuing a Bachelor
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMFawaz24&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMFawaz24&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMFawaz24&layout=compact&theme=radical)
 
 ## Currently Learning
 - Data Analytics
